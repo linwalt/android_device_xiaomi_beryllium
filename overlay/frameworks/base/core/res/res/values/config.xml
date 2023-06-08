@@ -690,7 +690,4 @@
     <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
     <dimen name="rounded_corner_radius_top">104px</dimen>
-    
-    <string name="config_gnssPsdsType">qualcomm_xtra</string>
-
 </resources>
